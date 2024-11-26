@@ -127,6 +127,7 @@ class SpecificWorker(GenericWorker):
 
         print('APP INICIADA')
 
+
     def __del__(self):
         """Destructor"""
 
